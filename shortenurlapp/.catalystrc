@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": 3296000000457074,
+      "name": "TelegramShortenUrlBot",
+      "domain": {
+        "id": 10030277847,
+        "name": "telegramshortenurlbot-698833516.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "698833516",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

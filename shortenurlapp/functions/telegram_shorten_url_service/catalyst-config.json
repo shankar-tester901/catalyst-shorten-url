@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "telegram_shorten_url_service",
+		"stack": "node10",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

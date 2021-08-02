@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "telegram_shorten_url_service"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
